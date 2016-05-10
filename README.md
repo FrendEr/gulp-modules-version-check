@@ -5,7 +5,7 @@
 ## Install
 
 ```
-tnpm install gulp-modules-version-check -D
+npm install gulp-modules-version-check -D
 ```
 
 ## Examples
