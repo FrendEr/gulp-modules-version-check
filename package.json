@@ -1,0 +1,20 @@
+{
+  "name": "gulp-modules-version-check",
+  "version": "0.0.1",
+  "description": "node modules versio check for gulp",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "version",
+    "modules",
+    "gulp"
+  ],
+  "author": "FrendEr",
+  "license": "MIT",
+  "dependencies": {
+    "modules-version-check": "0.0.1",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
